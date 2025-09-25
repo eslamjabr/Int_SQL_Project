@@ -28,7 +28,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**
 
-<img src="/Users/folder/Library/DBeaverData/workspace6/Int_SQL_Project/Resources/6.3_customer_segementation.png" alt="Customer Segmentation" width="50%">
+<img src="Resources/6.3_customer_segementation.png" alt="Customer Segmentation" width="50%">
 
 📊 **Key Findings:**
 - High-value segment (25% of customers) drives 66% of revenue ($135.4M)
@@ -53,11 +53,11 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date 
 
-<img src="/Users/folder/Library/DBeaverData/workspace6/Int_SQL_Project/Resources/5.2_customer_revenue_normalized.png" alt="Customer Revenue Normalized" width="50%">
+<img src="Resources/5.2_customer_revenue_normalized.png" alt="Customer Revenue Normalized" width="50%">
 
 Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 
-<img src="/Users/folder/Library/DBeaverData/workspace6/Int_SQL_Project/Resources/5.2_monthly_revenue_customers_3mo.png" alt="Monthly Revenue & CustomerTrends" width="50%">  
+<img src="./Resources/5.2_monthly_revenue_customers_3mo.png" alt="Monthly Revenue & CustomerTrends" width="50%">  
 
 📊 **Key Findings:**  
 - Customer revenue is declining, older cohorts (2016-2018) spent ~$2,800+, while 2024 cohort spending dropped to ~$1,970.  
@@ -78,7 +78,7 @@ Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 
 **📈 Visualization:**
 
-<img src="/Users/folder/Library/DBeaverData/workspace6/Int_SQL_Project/Resources/7.3_customer_churn_cohort_year.png" alt="Customer Churn by Cohort Year" style="width: 50%; height: auto;">
+<img src="Resources/7.3_customer_churn_cohort_year.png" alt="Customer Churn by Cohort Year" style="width: 50%; height: auto;">
 
 📊 **Key Findings:**  
 - Cohort churn stabilizes at ~90% after 2-3 years, indicating a predictable long-term retention pattern.  
